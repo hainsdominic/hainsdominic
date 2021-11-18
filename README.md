@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on Web3 dapps and DeFi
 
-- 💬 Talk to me about Formula 1, blockchain and open-source.
+<!-- - 💬 Talk to me about Formula 1, blockchain and open-source. -->
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
