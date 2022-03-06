@@ -12,11 +12,9 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on an open-source medical application and decentralized apps
+- 🔭 I’m currently working on an open-source medical application and embedded software
 
 - 🌱 I’m currently learning software engineering at Polytechnique Montréal
-
-- 👯 I’m looking to collaborate on Web3 dapps and DeFi
 
 <!-- - 💬 Talk to me about Formula 1, blockchain and open-source. -->
 
