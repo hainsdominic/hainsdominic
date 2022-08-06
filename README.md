@@ -1,7 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hainsdominic.hainsdominic)
 
 </p>
-<div size='20px'> Hi! My name is Dominic. Thanks for visiting my Github profile!
+<div size='20px'> Hi, thanks for visiting my Github profile!
 </div>
 
 <h2> About Me </h2>
