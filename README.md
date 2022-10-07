@@ -1,8 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hainsdominic.hainsdominic)
-
-</p>
-<div size='20px'> Hi, thanks for visiting my Github profile!
-</div>
+# Hi 👋, I'm Dominic.
 
 <h2> About Me </h2>
 
@@ -11,7 +7,7 @@
 
 - 🌱 I’m currently learning computer engineering at Polytechnique Montréal
 
-- 💬 Feel free to follow me!
+- 💬 Feel free to connect with me!
 
 <h2> Skills </h2>
 <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
