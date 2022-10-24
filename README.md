@@ -3,7 +3,7 @@
 <h2> About Me </h2>
 
 
-- 🔭 I’m currently working on a FOSS medical platofrorm, embedded and Wasm stuff
+- 🔭 I’m currently developing a FOSS electronic health record and performant back-end systems.
 
 - 🌱 I’m currently learning computer engineering at Polytechnique Montréal
 
