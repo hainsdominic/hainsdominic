@@ -20,3 +20,9 @@
 <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
 <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=express&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'> </a>
+
+<details>
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="Jerememes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hainsdominic&theme=tokyonight&count_private=true" />
+</details>
