@@ -24,5 +24,5 @@
 <details>
   <summary>GitHub Stats</summary>
 
-  <img align="left" alt="Jerememes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Opus26&theme=tokyonight&count_private=true" />
+  <img align="left" alt="Jerememes's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hainsdominic&theme=tokyonight&count_private=true" />
 </details>
