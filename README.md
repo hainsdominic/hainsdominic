@@ -2,10 +2,7 @@
 
 <h2> About Me </h2>
 
-
-- 🔭 I’m currently developing a FOSS electronic health record and performant back-end systems.
-
-- 🌱 I’m currently learning computer engineering at Polytechnique Montréal
+- 🌱 Currently building a startup to change work
 
 - 💬 Feel free to connect with me!
 
