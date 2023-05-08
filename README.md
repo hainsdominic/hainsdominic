@@ -1,10 +1,6 @@
 # Hi 👋, I'm Dominic.
 
-<h2> About Me </h2>
-
-- 🌱 Currently building a startup to change work
-
-- 💬 Feel free to connect with me!
+Feel free to reach out - dominic [at] hainstech.com
 
 <h2> Skills </h2>
   <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
