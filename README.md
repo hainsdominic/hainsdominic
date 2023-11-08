@@ -1,6 +1,6 @@
 # Hi 👋, I'm Dominic.
 
-Feel free to reach out - dominic [at] hainstech.com
+Feel free to reach out - dominic [at] fizl.io
 
 <h2> Skills </h2>
   <a href= https://github.com/hainsdominic?tab=repositories&q=&type=&language=rust&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg'> </a>
